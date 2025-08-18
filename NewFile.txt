@@ -1,1 +1,3 @@
 Another file to practice branching, pull requesting, and merging.
+
+Adding text to this file to text SSH functionality.
